@@ -13,5 +13,5 @@ public class BaseConfiguration {
     public static String REPORT_PATH = System.getProperty("user.dir") + REPORT_DIRECTORY;
 
     public static String RECORDING_DIRECTORY = "/record";
-    public static String RECORDING_PATH = System.getProperty("user.dir") + REPORT_DIRECTORY;
+    public static String RECORDING_PATH = System.getProperty("user.dir") + RECORDING_DIRECTORY;
 }
